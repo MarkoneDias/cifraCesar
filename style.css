@@ -1,0 +1,47 @@
+body {
+  background-image: url(https://cdn.wallpapersafari.com/12/83/YeAwl6.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+#main {
+  width: 40rem;
+  margin: auto;
+  margin-top: 2rem;
+  border-radius: 11px;
+  background: #ffe5c6;
+  box-shadow: 6px 6px 18px #473a13, -6px -6px 18px #473a13;
+  padding: 1.5rem;
+  font-family: "Romana BT", sans-serif;
+  text-align: center;
+}
+#main p {
+  padding: 1rem;
+  text-align: justify;
+  font-size: medium;
+  border-bottom: 2px solid #000000;
+}
+#main h4 {
+  margin-top: 0.5rem;
+  font-size: large;
+}
+#main textarea {
+  font-family: "Romana BT", sans-serif;
+  box-shadow: 6px 6px 18px #ffe0b1, -6px -6px 18px #ffd8a8;
+  width: 40rem;
+  border-radius: 0.5rem;
+  font-size: 1.5rem;
+  text-align: center;
+  background: #fff0de;
+}
+input {
+  text-align: center;
+  font-size: large;
+  background: #fff0de;
+}
+button {
+  margin-top: 0.5rem;
+  width: 7rem;
+  padding: 0.3rem;
+  border-radius: 5px;
+}
